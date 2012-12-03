@@ -1,0 +1,5 @@
+stamp-*
+files
+libnss-catchall.substvars
+libnss-catchall.debhelper.log
+libnss-catchall

@@ -1,0 +1,5 @@
+libnss-catchall (0.1-0) local-squeeze; urgency=low
+
+  * initial revision
+
+ -- Sven Geggus <sven-deb@geggus.net>  Mon, 03 Dec 2012 16:22:33 +0100
